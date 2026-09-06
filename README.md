@@ -6,7 +6,7 @@ Analysis of employee attrition data to identify the key factors driving turnover
 Identify why employees leave, which segments are highest-risk, and provide data-backed recommendations to reduce attrition.
 
 ## 📊 Dataset
-- **Source:** IBM HR Analytics Employee Attrition dataset
+- **Source:** Employee Attrition dataset
 - **Size:** 1,470 employees, 35 original columns (31 after cleaning)
 - **Target:** `Attrition` (Yes/No)
 
